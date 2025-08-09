@@ -1,55 +1,50 @@
-# Uneza Desktop View Clone
+# Website Clones Portfolio
 
-This repository contains a near pixel-perfect clone of the desktop view of the [Uneza website](https://fse.jegtheme.com/uneza/).
+This repository is a collection of pixel-perfect or 90%+ accurate desktop view clones of various websites, created for educational purposes and to showcase frontend development skills.
 
-> **Note:** This project is not responsive and targets only desktop screen sizes.
+---
+
+## Projects Included
+
+| Website Name      | URL                              | Notes                      |
+|-------------------|---------------------------------|----------------------------|
+| Uneza             | https://fse.jegtheme.com/uneza/ | Desktop only, not responsive |
+| OAU Official Site | https://oauife.edu.ng/           | Desktop clone with slider  |
 
 ---
 
 ## Purpose
 
-The primary goal of this project is to showcase frontend development skills by recreating a complex website layout with close attention to design details.
+These projects are designed to:
 
-This project is created solely for **educational and portfolio purposes**.
-
----
-
-## Features
-
-- Pixel-perfect desktop layout clone  
-- Uses modern HTML and CSS  
-- No responsiveness — desktop-only design  
-- Clean, well-structured code for learning and reference
+- Demonstrate HTML, CSS, and JavaScript skills  
+- Provide clean, well-structured code examples  
+- Serve as learning resources for frontend development  
+- Showcase ability to replicate real-world designs closely
 
 ---
 
 ## Disclaimer
 
-- This project is **not affiliated with or endorsed by Uneza** or its creators.  
+- These projects are **not affiliated with or endorsed by the original website owners**.  
 - All content, images, and branding belong to their respective owners.  
-- Redistribution or commercial use of this code without permission is prohibited.  
-- This clone is for personal learning and demonstration only.
+- These clones are for personal learning, portfolio, and educational use only.  
+- Redistribution or commercial use without permission is prohibited.
 
 ---
 
 ## How to Use
 
-1. Clone or download this repository.  
-2. Open `index.html` in a modern web browser to view the clone.  
-3. Explore the code to learn how the layout and styles are implemented.
-
----
-
-## Credits
-
-Original website by [Uneza](https://fse.jegtheme.com/uneza/).
+- Clone or download the repository.  
+- Navigate to each project folder and open `index.html` in a browser.  
+- Explore the code and use it as a reference for your own projects.
 
 ---
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out.
+Feel free to reach out if you have questions or feedback.
 
 ---
 
-Thank you for checking out this project!
+Thank you for exploring my website clones portfolio!

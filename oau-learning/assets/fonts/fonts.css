@@ -1,0 +1,80 @@
+/* dm-sans-100 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../fonts/dm-sans-100.woff2') format('woff2');
+}
+
+/* dm-sans-200 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/dm-sans-200.woff2') format('woff2');
+}
+
+/* dm-sans-300 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/dm-sans-300.woff2') format('woff2');
+}
+
+/* dm-sans-400 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/dm-sans-400.woff2') format('woff2');
+}
+
+/* dm-sans-500 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/dm-sans-500.woff2') format('woff2');
+}
+
+/* dm-sans-600 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/dm-sans-600.woff2') format('woff2');
+}
+
+/* dm-sans-700 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/dm-sans-700.woff2') format('woff2');
+}
+
+/* dm-sans-800 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/dm-sans-800.woff2') format('woff2');
+}
+
+/* dm-sans-900 */
+@font-face {
+  font-display: swap;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/dm-sans-900.woff2') format('woff2');
+}
